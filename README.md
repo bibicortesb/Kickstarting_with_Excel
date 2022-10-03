@@ -18,7 +18,7 @@ After data was clean and structured in columns, it could be used to feed two mai
  
 In the line plot below, the outcomes of theather category are shown based on launch date.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114015620/193632183-436a6cf6-d4f7-4c40-8d21-bc3660df798b.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114015620/193664829-1fbed185-f035-47ed-b584-227dae553c5b.png)
 
 According to the graph, the following conclusions can be drawn:
 - The best month for launching is May and June. 
