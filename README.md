@@ -37,7 +37,7 @@ In the following line plot, classes were formed out of delimited fundraising goa
 We can conlude that:
 - The most succesful plays had a fundraising goal in the following intervals <1.0 K-4.9 K & 35.0 K-44.9 K.
 - The lowest succesful rates were in projects with a goal between 25.0 K-34.9 K. 
-- The greatest concentration of projects is located in the interval of <1.0 K with a success rate of 73%. 
+- The greatest concentration of projects is located in the interval of <1.0 K with a success rate of 76%. 
 
 ### Challenges and Difficulties Encountered
 
